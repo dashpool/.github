@@ -1,6 +1,6 @@
 # DashPool
 
-<img src="https://raw.githubusercontent.com/dashpool/.github/main/media/logo.svg" alt="Logo" width="150" height="230" style="float: left; margin-right: 50px;">
+<img src="https://raw.githubusercontent.com/dashpool/.github/main/media/logo.svg" alt="Logo" width="150" height="230" style="float: left; margin-right: 50px;" align="left">
 
 
 ![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fdashpool.github.io%2Fhelm%2Findex.yaml&query=entries.dashpool%5B0%5D.version&logo=helm&label=Helm) [**https://dashpool.github.io/helm**](https://dashpool.github.io/helm)
